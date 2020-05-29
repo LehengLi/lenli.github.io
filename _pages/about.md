@@ -9,20 +9,21 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 # About me
 
 Hello, I am Len Li , an undergraduate student from [Dalian University of Technology](http://en.dlut.edu.cn/).  
-I am major in mathematics. My research interest is computer vision.  
-I will apply Ph.D in 2022. I am looking for reasearch assitant/summer intern position!
+I am major in mathematics. My research interest is computer vision. I am advised by [Zhixun Su](https://dblp.org/pers/s/Su:Zhixun.html)  
+I will apply Ph.D in 2022. I am also looking for reasearch assitant/summer intern position!
 
 
 <br>
 
-# Research Exprience
+# Research Exprience 
+
+<br>
 
 
-<img src = "https://i.loli.net/2018/04/24/5adf182dd449f.jpeg" align = "left" width = "200" height = "150">          
+<img src = "../images/fgvc.png" align = "left" width = "250" height = "160">          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Project name
 
