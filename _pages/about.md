@@ -45,7 +45,7 @@ I am interested in Computer Vision and Robot Learning.
 <br>
 
 
-<img src = "../images/pra.png" align = "left" width = "340" height = "300"><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chinese Academy of Sciences Priority Research Application Challenge  
+<img src = "../images/pra.png" align = "left" width = "340" height = "300"><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Priority Research Application   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*Tech. detail*](https://len-li.github.io/pra/)
 <br>
 <br>
