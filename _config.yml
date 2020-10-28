@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Len Li's website"
+title                    : "Leheng Li"
 title_separator          : "-"
-name                     : &name "Len Li's website"
+name                     : &name "Leheng Li's website"
 description              : &description "personal description"
 url                      : https://Len-Li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -104,7 +104,7 @@ author:
   soundcloud       :
   steam            :
   tumblr           :
-  twitter          : "LenLi16393423"
+  twitter          : "lilelife0"
   vine             :
   weibo            :
   xing             :

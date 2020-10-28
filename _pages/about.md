@@ -40,7 +40,7 @@ I am interested in Computer Vision and Robot Learning.
 
 <img src = "../images/autoaim.gif" align = "left" width = "340" height = "170"><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;openvino + robomaster auto aim  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*Tech. detail*](https://github.com/Len-Li/openvino-robomaster)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*Slide*](https://github.com/Len-Li/openvino-robomaster)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[*Slide*](https://len-li.github.io/rm/)
 <br>
 <br>
 <br>
