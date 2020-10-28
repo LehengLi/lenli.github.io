@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leheng Li's homepage "
+title                    : "Leheng Li's page"
 title_separator          : "-"
 name                     : &name "Leheng Li's website"
 description              : &description "personal description"
