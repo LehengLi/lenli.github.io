@@ -11,11 +11,13 @@ redirect_from:
 {% include base_path %}
 # About me
 
-HI, I am Leheng Li 李乐恒, a third-year undergraduate student from [Dalian University of Technology](http://en.dlut.edu.cn/). I am major in computational mathematics.  
+HI, I am Leheng Li 李乐恒, a third-year undergraduate student from [Dalian University of Technology](http://en.dlut.edu.cn/). I am major in mathematics.
+<br>
+Currently, I am a research intern at MEGVII, working on image-based 3d object detection.
 <!-- My adviser is  [Zhixun Su](https://dblp.org/pers/s/Su:Zhixun.html).   -->
-I will apply Ph.D program in 2022. I am also looking for reasearch assitant/summer intern position!
-### Research Topics
-I am interested in Computer Vision and Robot Learning.  
+
+### Research Interests
+I am recently working on 3d object detection.  
 <br>
 
 
@@ -30,12 +32,12 @@ I am interested in Computer Vision and Robot Learning.
 <br>
 
 
-<img src = "../images/cvpr2020.png" align = "left" width = "340" height = "170"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CVPR 2020 AliProducts Challenge:](https://tianchi.aliyun.com/competition/entrance/231780/introduction)  
+<!-- <img src = "../images/cvpr2020.png" align = "left" width = "340" height = "170"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CVPR 2020 AliProducts Challenge:](https://tianchi.aliyun.com/competition/entrance/231780/introduction)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Large-scale Product Recognition 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rank:27/688 &nbsp;  [*Tech. detail*](https://www.kaggle.com/c/herbarium-2020-fgvc7/discussion/155000)
 <br>
 <br>
-<br>
+<br> -->
 
 
 <img src = "../images/autoaim.gif" align = "left" width = "340" height = "170"><br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RoboMaster Robotic Challenge  
